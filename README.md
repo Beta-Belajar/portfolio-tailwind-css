@@ -7,3 +7,5 @@ Persiapan
 
 npm install -D tailwindcss
 npx tailwindcss init
+
+# 1. Hero Section
