@@ -21,3 +21,11 @@ npx tailwindcss init
 # 6. Contact
 
 # 7. Footer
+
+# 8. Tambahan Plugin Pretier Plugin Tailwind CSS
+
+# 9. Dark Mode
+
+# 10. Optimize Production Tailwind CSS
+
+npx tailwindcss -o build.css --minify
