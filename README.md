@@ -17,3 +17,7 @@ npx tailwindcss init
 # 4. Portfolio & Clients
 
 # 5. Blog
+
+# 6. Contact
+
+# 7. Footer
